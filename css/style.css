@@ -304,7 +304,7 @@
 .container2 img{
     width: 89.5%;
     position: relative;
-    top: 150px;
+    top: 160px;
     left: 79px;
     border-radius: 10px;
     background: rgba(201, 175, 123, 0.8);
@@ -314,7 +314,7 @@
 .conten h1{
     position: absolute;
     width: 100%;
-    top: 130px;
+    top: 120px;
     left: 50%;
     transform: translate(-50%);
     z-index: 2;
